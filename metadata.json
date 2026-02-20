@@ -1,0 +1,7 @@
+{
+  "name": "WebPress-Architect",
+  "description": "Interactive Product Requirements Document and high-fidelity prototype for a Lovable-style WordPress AI builder plugin.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
